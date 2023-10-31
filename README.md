@@ -1,5 +1,5 @@
 # Descrições datalhadas para os itens - Risk of Rain 2 - PT-BR
-Substitui as descrições encurtadas dos itens por suas versões mais precisas e detalhadas, tudo em português brasileiro.
+Substitui as descrições encurtadas dos itens e equipamentos (jogo base + DLC) por suas versões mais precisas e detalhadas, tudo em português brasileiro.
 ## Exemplo:
 ![Antes](https://steamuserimages-a.akamaihd.net/ugc/1825652937239075837/CDA36F8B7EE3854D7E980021BF4634C960F5394B/)
 ![Depois](https://steamuserimages-a.akamaihd.net/ugc/1825652937239076125/D4C09811E47C02D3A0B4844FB233D0E622DD3F67/)
