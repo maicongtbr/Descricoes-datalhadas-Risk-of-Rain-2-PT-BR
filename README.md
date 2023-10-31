@@ -8,6 +8,6 @@ Substitui as descrições encurtadas dos itens por suas versões mais precisas e
 
 1. Faça o download do JSON deste repositório (ou copie todo o arquivo).
 
-2. Vá para \Steam\steamapps\common\Risk of Rain 2\Risk of Rain 2_Data\StreamingAssets\Language\pt-BR
+2. Vá para `\Steam\steamapps\common\Risk of Rain 2\Risk of Rain 2_Data\StreamingAssets\Language\pt-BR`
 
 3. Coloque (ou cole) o arquivo baixado dentro desta pasta, substituindo o arquivo já existente.
